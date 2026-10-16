@@ -1,0 +1,1232 @@
+{
+  "site": "https://viajarenunclick.com.ar",
+  "crawled_at": "2026-10-16T16:04:37.375661+00:00",
+  "total_crawled_pages": 250,
+  "total_canonical_urls": 153,
+  "urls": {
+    "https://viajarenunclick.com.ar/": {
+      "loc": "https://viajarenunclick.com.ar/",
+      "lastmod": "2026-10-16",
+      "changefreq": "daily",
+      "priority": "1.0",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/"
+    },
+    "https://viajarenunclick.com.ar/es/idea/24558189/escapada-florianopolis": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/24558189/escapada-florianopolis",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Florianópolis: 7 noches con vuelo",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/24558189/890151/escapada-florianopolis"
+    },
+    "https://viajarenunclick.com.ar/es/idea/14204857/escapada-rio": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/14204857/escapada-rio",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Río de Janeiro: 7 noches con vuelo",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/14204857/890151/escapada-rio"
+    },
+    "https://viajarenunclick.com.ar/es/idea/35129469/escapada-punta-cana": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/35129469/escapada-punta-cana",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Punta Cana desde: US$1,292",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/35129469/890151/escapada-punta-cana"
+    },
+    "https://viajarenunclick.com.ar/es/idea/56817031/de-compras-en-miami": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/56817031/de-compras-en-miami",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "De compras en Miami desde: US$1,228",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/56817031/890151/de-compras-en-miami"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44866902/postales-de-turquia-clasica": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44866902/postales-de-turquia-clasica",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Postales de Turquía Clásica desde: US$1,949",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44866902/890151/postales-de-turquia-clasica"
+    },
+    "https://viajarenunclick.com.ar/es/idea/24578829/relax-en-miami": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/24578829/relax-en-miami",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Relax en Miami desde: US$982",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/24578829/890151/relax-en-miami"
+    },
+    "https://viajarenunclick.com.ar/es/idea/13395421/escapada-buzios": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/13395421/escapada-buzios",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Búzios con vuelo y desayuno",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/13395421/890151/escapada-buzios"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44976702/vuelo-a-aruba-con-latam": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44976702/vuelo-a-aruba-con-latam",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Aruba con Latam desde: US$613",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44976702/890151/vuelo-a-aruba-con-latam"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44884710/vuelo-a-nueva-york-con-latam": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44884710/vuelo-a-nueva-york-con-latam",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Nueva York con Latam desde: US$894",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44884710/890151/vuelo-a-nueva-york-con-latam"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44876661/vuelo-directo-a-miami-con-delta": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44876661/vuelo-directo-a-miami-con-delta",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo directo a Miami con Delta desde: US$633",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44876661/890151/vuelo-directo-a-miami-con-delta"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44662005/vuelo-a-cartagena-con-jetsmart": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44662005/vuelo-a-cartagena-con-jetsmart",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Cartagena con JetSmart desde: US$532",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44662005/890151/vuelo-a-cartagena-con-jetsmart"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44660517/vuelo-a-cancun-con-latam": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44660517/vuelo-a-cancun-con-latam",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Cancún con Latam desde: US$597",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44660517/890151/vuelo-a-cancun-con-latam"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44658285/vuelo-a-rio-con-latam": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44658285/vuelo-a-rio-con-latam",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Río con LATAM desde: US$388",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44658285/890151/vuelo-a-rio-con-latam"
+    },
+    "https://viajarenunclick.com.ar/es/idea/44655972/vuelo-punta-cana-con-jetsmart": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/44655972/vuelo-punta-cana-con-jetsmart",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo Punta Cana con JetSmart desde: US$623",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/44655972/890151/vuelo-punta-cana-con-jetsmart"
+    },
+    "https://viajarenunclick.com.ar/es/idea/23759283/semana-en-panama": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/23759283/semana-en-panama",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Semana en Panamá desde: US$1,027",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/23759283/890151/semana-en-panama"
+    },
+    "https://viajarenunclick.com.ar/es/idea/14205046/escapada-maceio": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/14205046/escapada-maceio",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maceió: 7 noches con vuelo",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/14205046/890151/escapada-maceio"
+    },
+    "https://viajarenunclick.com.ar/es/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/moreideas?agency=890151&isMicrosite=true"
+    },
+    "https://viajarenunclick.com.ar/es/22201/isla-margarita/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/22201/isla-margarita/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/22201/isla-margarita/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/13/mexico/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/13/mexico/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/13/mexico/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/257/republica-dominicana/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/257/republica-dominicana/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/257/republica-dominicana/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/13074/argentina/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/13074/argentina/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/13074/argentina/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/22249/aruba/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/22249/aruba/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/22249/aruba/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/16/brasil/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/16/brasil/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/16/brasil/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/26/caribe/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/26/caribe/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/26/caribe/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/79/europa/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/79/europa/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/79/europa/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/400/turquia/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/400/turquia/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/400/turquia/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/24/estados-unidos/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/24/estados-unidos/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/24/estados-unidos/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/3057/panama/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/3057/panama/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/3057/panama/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/458/colombia/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/458/colombia/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/458/colombia/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/4837/resto-de-america/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/4837/resto-de-america/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/4837/resto-de-america/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/6850/asia/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/6850/asia/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/6850/asia/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/idea/14204977/escapada-salvador-de-bahia": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/14204977/escapada-salvador-de-bahia",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Salvador de Bahía: 7 noches con vuelo",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/14204977/890151/escapada-salvador-de-bahia"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66149685/8-riviera-maya-5-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66149685/8-riviera-maya-5-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "8 Riviera Maya - 5 de Noviembre desde: US$1,618",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66149685/890151/8-riviera-maya-5-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/16800124/escapada-cancun": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/16800124/escapada-cancun",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Cancún  desde: US$1,444",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/16800124/890151/escapada-cancun"
+    },
+    "https://viajarenunclick.com.ar/es/idea/16799980/escapada-riviera-maya": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/16799980/escapada-riviera-maya",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Riviera Maya desde: US$1,459",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/16799980/890151/escapada-riviera-maya"
+    },
+    "https://viajarenunclick.com.ar/es/idea/16206262/escapada-bayahibe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/16206262/escapada-bayahibe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Bayahíbe desde: US$1,302",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/16206262/890151/escapada-bayahibe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66151005/8-cancun-5-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66151005/8-cancun-5-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "8 Cancún - 5 de Noviembre desde: US$1,482",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66151005/890151/8-cancun-5-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/12040204/grupal-en-altamar-ano-nuevo-en-brasil-y-uruguay": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/12040204/grupal-en-altamar-ano-nuevo-en-brasil-y-uruguay",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Grupal en Altamar – Año Nuevo en Brasil y Uruguay desde: US$2,726",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/12040204/grupal-en-altamar-ano-nuevo-en-brasil-y-uruguay"
+    },
+    "https://viajarenunclick.com.ar/es/idea/52307066/crucero-por-la-antartida-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/52307066/crucero-por-la-antartida-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Crucero por la Antártida - Grupal Acompañada 2027 desde: US$4,525",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/52307066/crucero-por-la-antartida-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/57736430/maravillas-de-europa-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/57736430/maravillas-de-europa-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Europa – Grupal acompañada 2027 desde: US$4,265",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/57736430/-maravillas-de-europa-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/40341050/maravillas-de-peru-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/40341050/maravillas-de-peru-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Perú – Grupal Acompañada 2027 desde: US$2,250",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/40341050/maravillas-de-peru-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/57904517/maravillas-de-turquia-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/57904517/maravillas-de-turquia-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Turquía – Grupal Acompañada 2027 desde: US$3,799",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/57904517/maravillas-de-turquia-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/57991622/maravillas-de-espana-portugal-y-marruecos-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/57991622/maravillas-de-espana-portugal-y-marruecos-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de España, Portugal y Marruecos – Grupal Acompañada 2027 desde: US$5,435",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/57991622/-maravillas-de-espana-portugal-y-marruecos-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/57991619/maravillas-de-europa-desde-londres-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/57991619/maravillas-de-europa-desde-londres-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Europa desde Londres – Grupal Acompañada 2027 desde: US$5,950",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/57991619/maravillas-de-europa-desde-londres-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/8234043/maravillas-de-turquia-y-dubai-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/8234043/maravillas-de-turquia-y-dubai-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Turquía y Dubái – Grupal Acompañada 2027 desde: US$3,999",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/8234043/maravillas-de-turquia-y-dubai-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/57904511/maravillas-de-turquia-e-islas-griegas-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/57904511/maravillas-de-turquia-e-islas-griegas-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Turquía e Islas Griegas – 2027 desde: US$5,950",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/57904511/maravillas-de-turquia-e-islas-griegas-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/59700881/maravillas-de-reino-unido-e-irlanda-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/59700881/maravillas-de-reino-unido-e-irlanda-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Reino Unido e Irlanda – Grupal Acompañada 2027 desde: US$5,950",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/59700881/maravillas-de-reino-unido-e-irlanda-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/59714000/grupal-a-italia-croacia-y-grecia-con-crucero-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/59714000/grupal-a-italia-croacia-y-grecia-con-crucero-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Grupal a Italia, Croacia y Grecia con crucero 2027 desde: US$6,310",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/59714000/grupal-a-italia-croacia-y-grecia-con-crucero-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/47781027/maravillas-de-turquia-y-egipto-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/47781027/maravillas-de-turquia-y-egipto-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Turquía y Egipto - Grupal acompañada 2027 desde: US$5,525",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/47781027/-maravillas-de-turquia-y-egipto-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/60769130/grupales-de-playa-viva-mexico-tip": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/60769130/grupales-de-playa-viva-mexico-tip",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Grupales de Playa - Viva México + TIP desde: US$2,950",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/60769130/grupales-de-playa-viva-mexico-tip"
+    },
+    "https://viajarenunclick.com.ar/es/idea/60751712/grupales-de-playa-viva-republica-dominicana-tip": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/60751712/grupales-de-playa-viva-republica-dominicana-tip",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Grupales de Playa - Viva República Dominicana + TIP desde: US$2,950",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/60751712/grupales-de-playa-viva-republica-dominicana-tip"
+    },
+    "https://viajarenunclick.com.ar/es/idea/62700463/maravillas-de-europa-grupal-acompanada-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/62700463/maravillas-de-europa-grupal-acompanada-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Maravillas de Europa – Grupal acompañada 2027 desde: US$4,475",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/62700463/-maravillas-de-europa-grupal-acompanada-2027"
+    },
+    "https://viajarenunclick.com.ar/es/2960/preventa-2027/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/2960/preventa-2027/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/2960/preventa-2027/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/4593/paquetes-en-promo/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/4593/paquetes-en-promo/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/4593/paquetes-en-promo/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/16257/promos-aereas/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/16257/promos-aereas/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/16257/promos-aereas/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/165/fin-de-ano/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/165/fin-de-ano/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/165/fin-de-ano/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/12180/cruceros/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/12180/cruceros/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/12180/cruceros/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/9507/r-dominicana-salidas-confirmadas/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/9507/r-dominicana-salidas-confirmadas/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/9507/r-dominicana-salidas-confirmadas/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/9510/mexico-salidas-confirmadas/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/9510/mexico-salidas-confirmadas/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/9510/mexico-salidas-confirmadas/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/21677/aruba-cupos-confirmados/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/21677/aruba-cupos-confirmados/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/21677/aruba-cupos-confirmados/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/9513/brasil-salidas-confirmadas/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/9513/brasil-salidas-confirmadas/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/9513/brasil-salidas-confirmadas/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/18738/formula-1/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/18738/formula-1/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Paquetes F1 Sao Paulo",
+      "discovered_from": "https://viajarenunclick.com.ar/es/18738/formula-1/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/4355/postales-del-mundo/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/4355/postales-del-mundo/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/4355/postales-del-mundo/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/1779/grupales/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/1779/grupales/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/1779/grupales/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/2836/caribe-desde-el-interior/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/2836/caribe-desde-el-interior/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/2836/caribe-desde-el-interior/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/2269/temporada-baja/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/2269/temporada-baja/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/2269/temporada-baja/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/8303/especiales-de-europa-y-asia/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/8303/especiales-de-europa-y-asia/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/8303/especiales-de-europa-y-asia/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/17676/europa-tematica/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/17676/europa-tematica/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/17676/europa-tematica/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/8536/europa-express/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/8536/europa-express/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/8536/europa-express/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/17664/drive-experience/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/17664/drive-experience/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/17664/drive-experience/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/17670/europa-slow/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/17670/europa-slow/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/17670/europa-slow/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/idea/64710694/escapada-punta-cana-con-iberostar": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/64710694/escapada-punta-cana-con-iberostar",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Punta Cana con Iberostar desde: US$1,719",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/64710694/890151/escapada-punta-cana-con-iberostar"
+    },
+    "https://viajarenunclick.com.ar/es/closedtour/pro/42220866/pkg-33678129-1": {
+      "loc": "https://viajarenunclick.com.ar/es/closedtour/pro/42220866/pkg-33678129-1",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Londres, París, España y Roma - Septiembre 2026 a Marzo 2027 desde: US$2,799",
+      "discovered_from": "https://viajarenunclick.com.ar/es/closedtour/pro/42220866/pkg-33678129-1?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/holidays/availability": {
+      "loc": "https://viajarenunclick.com.ar/es/holidays/availability",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Vacaciones",
+      "discovered_from": "https://viajarenunclick.com.ar/es/holidays/availability?country=ES"
+    },
+    "https://viajarenunclick.com.ar/profile/dashboard.xhtml": {
+      "loc": "https://viajarenunclick.com.ar/profile/dashboard.xhtml",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/profile/dashboard.xhtml?agency=890151&selectedSection=IDEAS"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/master-1547055/hotel-porto-madero": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/master-1547055/hotel-porto-madero",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Hotel Porto Madero - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/master-1547055/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/77655/hotel-bandeirantes": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/77655/hotel-bandeirantes",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Hotel Bandeirantes - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/77655/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/master-3456182/whala-bavaro-all-inclusive": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/master-3456182/whala-bavaro-all-inclusive",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "whala!bavaro - All Inclusive - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/master-3456182/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/master-148844/aloft-by-marriott-miami-aventura": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/master-148844/aloft-by-marriott-miami-aventura",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Aloft by Marriott Miami Aventura - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/master-148844/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/13149/postales-de-turquia-y-medio-oriente/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/13149/postales-de-turquia-y-medio-oriente/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/13149/postales-de-turquia-y-medio-oriente/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/17544/postales-de-turquia/moreideas": {
+      "loc": "https://viajarenunclick.com.ar/es/17544/postales-de-turquia/moreideas",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.8",
+      "title": "Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/17544/postales-de-turquia/moreideas?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/master-5238462/beachside-all-suites-hotel-a-south-beach-group-hotel": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/master-5238462/beachside-all-suites-hotel-a-south-beach-group-hotel",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Beachside All Suites Hotel, a South Beach Group Hotel - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/master-5238462/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/163526/arambare-buzios-hotel": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/163526/arambare-buzios-hotel",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Arambaré Buzios Hotel - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/163526/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/tou-1457454/ramada-panama-centro-via-argentina": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/tou-1457454/ramada-panama-centro-via-argentina",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Ramada Panama Centro Via Argentina - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/tou-1457454/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/accommodation/master-3101659/moriah-maceio-beach-hotel": {
+      "loc": "https://viajarenunclick.com.ar/es/accommodation/master-3101659/moriah-maceio-beach-hotel",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "MORIAH MACEIO BEACH HOTEL - Viajar en un Click",
+      "discovered_from": "https://viajarenunclick.com.ar/es/accommodation/master-3101659/datasheet?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65633631/isla-margarita-desde-buenos-aires-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65633631/isla-margarita-desde-buenos-aires-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Buenos Aires - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65633631/890151/isla-margarita-desde-buenos-aires-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65629461/isla-margarita-desde-rosario-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65629461/isla-margarita-desde-rosario-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Rosario - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65629461/890151/isla-margarita-desde-rosario-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65628309/isla-margarita-desde-neuquen-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65628309/isla-margarita-desde-neuquen-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Neuquen - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65628309/890151/isla-margarita-desde-neuquen-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65616690/isla-margarita-desde-salta-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65616690/isla-margarita-desde-salta-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Salta - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65616690/890151/isla-margarita-desde-salta-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65614470/isla-margarita-desde-tucuman-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65614470/isla-margarita-desde-tucuman-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Tucuman - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65614470/890151/isla-margarita-desde-tucuman-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65611905/isla-margarita-desde-mendoza-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65611905/isla-margarita-desde-mendoza-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Mendoza - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65611905/890151/isla-margarita-desde-mendoza-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65607396/isla-margarita-desde-santa-fe-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65607396/isla-margarita-desde-santa-fe-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Santa Fe - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65607396/890151/isla-margarita-desde-santa-fe-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65602416/isla-margarita-desde-cordoba-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65602416/isla-margarita-desde-cordoba-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Cordoba - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65602416/890151/isla-margarita-desde-cordoba-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66253749/isla-margarita-desde-resistencia-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66253749/isla-margarita-desde-resistencia-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Resistencia - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66253749/890151/isla-margarita-desde-resistencia-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66158223/isla-margarita-desde-jujuy-costa-caribe": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66158223/isla-margarita-desde-jujuy-costa-caribe",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Jujuy - Costa Caribe desde: US$1,790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66158223/890151/isla-margarita-desde-jujuy-costa-caribe"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65816241/isla-margarita-desde-buenos-aires-ld-palm-beach": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65816241/isla-margarita-desde-buenos-aires-ld-palm-beach",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Buenos Aires - LD Palm Beach desde: US$1,840",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65816241/890151/isla-margarita-desde-buenos-aires-ld-palm-beach"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65816001/isla-margarita-desde-salta-ld-palm-beach": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65816001/isla-margarita-desde-salta-ld-palm-beach",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Isla Margarita desde Salta - LD Palm Beach desde: US$1,840",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65816001/890151/isla-margarita-desde-salta-ld-palm-beach"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66151776/3-cancun-5-riviera-maya-5-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66151776/3-cancun-5-riviera-maya-5-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "3 Cancún / 5 Riviera Maya - 5 de Noviembre desde: US$1,475",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66151776/890151/3-cancun-5-riviera-maya-5-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66150384/4-costa-mujeres-4-riviera-maya-5-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66150384/4-costa-mujeres-4-riviera-maya-5-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "4 Costa Mujeres / 4 Riviera Maya - 5 de Noviembre desde: US$1,781",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66150384/890151/4-costa-mujeres-4-riviera-maya-5-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/50158998/8-riviera-maya-3-de-diciembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/50158998/8-riviera-maya-3-de-diciembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "8 Riviera Maya - 3 de Diciembre desde: US$1,648",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/50158998/890151/8-riviera-maya-3-de-diciembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/50159403/8-cancun-3-de-diciembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/50159403/8-cancun-3-de-diciembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "8 Cancún - 3 de Diciembre desde: US$1,275",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/50159403/890151/8-cancun-3-de-diciembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/50159640/3-cancun-5-riviera-maya-3-de-diciembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/50159640/3-cancun-5-riviera-maya-3-de-diciembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "3 Cancún / 5 Riviera Maya - 3 de Diciembre desde: US$1,504",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/50159640/890151/3-cancun-5-riviera-maya-3-de-diciembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/50159289/4-costa-mujeres-4-riviera-maya-3-de-diciembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/50159289/4-costa-mujeres-4-riviera-maya-3-de-diciembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "4 Costa Mujeres / 4 Riviera Maya - 3 de Diciembre desde: US$1,810",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/50159289/890151/4-costa-mujeres-4-riviera-maya-3-de-diciembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/60377801/postales-de-guatemala-y-mexico-con-playa": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/60377801/postales-de-guatemala-y-mexico-con-playa",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Postales de Guatemala  y México con playa desde: US$3,077",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/60377801/890151/postales-de-guatemala-y-mexico-con-playa"
+    },
+    "https://viajarenunclick.com.ar/es/idea/12433780/mexico-esencial-5-dias-": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/12433780/mexico-esencial-5-dias-",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "México Esencial (5 días) desde: US$453",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/12433780/890151/mexico-esencial-5-dias-"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66150474/8-punta-cana-05-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66150474/8-punta-cana-05-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "8 Punta Cana - 05 de Noviembre desde: US$1,386",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66150474/890151/8-punta-cana-05-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/48547915/escapada-miches": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/48547915/escapada-miches",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Miches desde: US$1,541",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/48547915/890151/escapada-miches"
+    },
+    "https://viajarenunclick.com.ar/es/idea/48544639/escapada-samana": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/48544639/escapada-samana",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Samana desde: US$1,581",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/48544639/890151/escapada-samana"
+    },
+    "https://viajarenunclick.com.ar/es/idea/47753472/escapada-cabarete": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/47753472/escapada-cabarete",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Cabarete desde: US$1,710",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/47753472/890151/escapada-cabarete"
+    },
+    "https://viajarenunclick.com.ar/es/idea/47752689/escapada-puerto-plata": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/47752689/escapada-puerto-plata",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Puerto Plata desde: US$1,738",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/47752689/890151/escapada-puerto-plata"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66150237/8-bayahibe-05-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66150237/8-bayahibe-05-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "8 Bayahíbe - 05 de Noviembre desde: US$2,482",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66150237/890151/8-bayahibe-05-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66151659/8-miches-05-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66151659/8-miches-05-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "8 Miches - 05 de Noviembre desde: US$1,875",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66151659/890151/8-miches-05-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/66151440/4-miches-4-bayahibe-05-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/66151440/4-miches-4-bayahibe-05-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "4 Miches / 4 Bayahibe - 05 de Noviembre desde: US$1,766",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/66151440/890151/4-miches-4-bayahibe-05-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/34495773/escapada-a-iguazu": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/34495773/escapada-a-iguazu",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Iguazú desde: US$180",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/34495773/890151/escapada-a-iguazu"
+    },
+    "https://viajarenunclick.com.ar/es/idea/34483374/escapada-a-buenos-aires": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/34483374/escapada-a-buenos-aires",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Buenos Aires desde: US$142",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/34483374/890151/escapada-a-buenos-aires"
+    },
+    "https://viajarenunclick.com.ar/es/idea/34482882/escapada-a-el-calafate": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/34482882/escapada-a-el-calafate",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a El Calafate desde: US$209",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/34482882/890151/escapada-a-el-calafate"
+    },
+    "https://viajarenunclick.com.ar/es/idea/34482309/escapada-a-ushuaia": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/34482309/escapada-a-ushuaia",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Ushuaia desde: US$209",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/34482309/890151/escapada-a-ushuaia"
+    },
+    "https://viajarenunclick.com.ar/es/idea/34478472/escapada-a-bariloche": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/34478472/escapada-a-bariloche",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Bariloche desde: US$191",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/34478472/890151/escapada-a-bariloche"
+    },
+    "https://viajarenunclick.com.ar/es/idea/60864479/vuelo-a-aruba-asistencia-mayo-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/60864479/vuelo-a-aruba-asistencia-mayo-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Aruba + Asistencia - Mayo 2027 desde: US$895",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/60864479/890151/vuelo-a-aruba-asistencia-mayo-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/52956498/escapada-a-aruba": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/52956498/escapada-a-aruba",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Aruba desde: US$1,645",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/52956498/890151/escapada-a-aruba"
+    },
+    "https://viajarenunclick.com.ar/es/idea/52283213/escapada-a-aruba": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/52283213/escapada-a-aruba",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Aruba desde: US$1,796",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/52283213/890151/escapada-a-aruba"
+    },
+    "https://viajarenunclick.com.ar/es/idea/18516134/escapada-a-aruba": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/18516134/escapada-a-aruba",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Aruba desde: US$2,736",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/18516134/890151/escapada-a-aruba"
+    },
+    "https://viajarenunclick.com.ar/es/idea/60864716/aruba-con-desayuno-mayo-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/60864716/aruba-con-desayuno-mayo-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Aruba con desayuno - Mayo 2027 desde: US$2,252",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/60864716/890151/aruba-con-desayuno-mayo-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/60865463/aruba-all-inclusive-mayo-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/60865463/aruba-all-inclusive-mayo-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Aruba All Inclusive - Mayo 2027 desde: US$3,091",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/60865463/890151/aruba-all-inclusive-mayo-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/60865550/aruba-a-tu-aire-mayo-2027": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/60865550/aruba-a-tu-aire-mayo-2027",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Aruba a tu aire - Mayo 2027 desde: US$1,826",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/60865550/890151/aruba-a-tu-aire-mayo-2027"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65450469/vuelo-a-rio-de-janeiro-15-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65450469/vuelo-a-rio-de-janeiro-15-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Rio de Janeiro - 15 de Noviembre desde: US$450",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65450469/890151/vuelo-a-rio-de-janeiro-15-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/64693606/6-rio-de-janeiro-15-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/64693606/6-rio-de-janeiro-15-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "6 Río de Janeiro - 15 de Noviembre desde: US$772",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/64693606/890151/6-rio-de-janeiro-15-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/64694218/2-rio-de-janeiro-4-buzios-15-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/64694218/2-rio-de-janeiro-4-buzios-15-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "2 Río de Janeiro / 4 Búzios - 15 de Noviembre desde: US$790",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/64694218/890151/2-rio-de-janeiro-4-buzios-15-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/64694173/6-buzios-15-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/64694173/6-buzios-15-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "6 Búzios - 15 de Noviembre desde: US$809",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/64694173/890151/6-buzios-15-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/64694503/6-angra-dos-reis-15-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/64694503/6-angra-dos-reis-15-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "6 Angra dos Reis - 15 de Noviembre desde: US$1,085",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/64694503/890151/6-angra-dos-reis-15-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/64694458/6-arraial-do-cabo-15-de-noviembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/64694458/6-arraial-do-cabo-15-de-noviembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "6 Arraial do Cabo - 15 de Noviembre desde: US$839",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/64694458/890151/6-arraial-do-cabo-15-de-noviembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/65642475/2-salvador-4-morro-1-salvador-26-de-diciembre": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/65642475/2-salvador-4-morro-1-salvador-26-de-diciembre",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "2 Salvador / 4 Morro / 1 Salvador - 26 de Diciembre desde: US$1,464",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/65642475/890151/2-salvador-4-morro-1-salvador-26-de-diciembre"
+    },
+    "https://viajarenunclick.com.ar/es/idea/53062069/vuelo-a-salvador-de-bahia-asistencia-fin-de-ano": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/53062069/vuelo-a-salvador-de-bahia-asistencia-fin-de-ano",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Vuelo a Salvador de Bahía + Asistencia - Fin de año desde: US$718",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/53062069/890151/vuelo-a-salvador-de-bahia-asistencia-fin-de-ano"
+    },
+    "https://viajarenunclick.com.ar/es/idea/16206028/escapada-a-cartagena": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/16206028/escapada-a-cartagena",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada a Cartagena desde: US$1,317",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/16206028/890151/escapada-a-cartagena"
+    },
+    "https://viajarenunclick.com.ar/es/idea/41898390/escapada-montego-bay": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/41898390/escapada-montego-bay",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Montego Bay desde: US$2,036",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/41898390/890151/escapada-montego-bay"
+    },
+    "https://viajarenunclick.com.ar/es/idea/12897568/escapada-curazao": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/12897568/escapada-curazao",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada Curazao desde: US$2,222",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/12897568/890151/escapada-curazao"
+    },
+    "https://viajarenunclick.com.ar/es/idea/40907267/escapada-san-andres-decameron": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/40907267/escapada-san-andres-decameron",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada San Andrés - Decameron desde: US$1,529",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/40907267/890151/escapada-san-andres-decameron"
+    },
+    "https://viajarenunclick.com.ar/es/closedtour/pro/42221364/pkg-33678149-1": {
+      "loc": "https://viajarenunclick.com.ar/es/closedtour/pro/42221364/pkg-33678149-1",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "Italia turística, París y Madrid - Septiembre 2026 a Marzo 2027 desde: US$2,203",
+      "discovered_from": "https://viajarenunclick.com.ar/es/closedtour/pro/42221364/pkg-33678149-1?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/closedtour/pro/42222135/pkg-33678185-1": {
+      "loc": "https://viajarenunclick.com.ar/es/closedtour/pro/42222135/pkg-33678185-1",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "España, Italia turística, París y Burdeos - Septiembre 2026 a Marzo 2027 desde: US$2,812",
+      "discovered_from": "https://viajarenunclick.com.ar/es/closedtour/pro/42222135/pkg-33678185-1?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/closedtour/pro/42222384/pkg-33678193-1": {
+      "loc": "https://viajarenunclick.com.ar/es/closedtour/pro/42222384/pkg-33678193-1",
+      "lastmod": "2026-10-16",
+      "changefreq": "monthly",
+      "priority": "0.5",
+      "title": "España, Italia turística y París - Septiembre 2026 a Marzo 2027 desde: US$2,456",
+      "discovered_from": "https://viajarenunclick.com.ar/es/closedtour/pro/42222384/pkg-33678193-1?agency=890151"
+    },
+    "https://viajarenunclick.com.ar/es/idea/51111613/luna-de-miel-en-grecia": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/51111613/luna-de-miel-en-grecia",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Luna de Miel en Grecia  desde: US$5,737",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/51111613/890151/luna-de-miel-en-grecia"
+    },
+    "https://viajarenunclick.com.ar/es/idea/48247609/pueblos-montanosos-de-umbria": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/48247609/pueblos-montanosos-de-umbria",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Pueblos montañosos de Umbría desde: US$1,352",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/48247609/890151/pueblos-montanosos-de-umbria"
+    },
+    "https://viajarenunclick.com.ar/es/idea/48247432/lo-mejor-de-cerdena": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/48247432/lo-mejor-de-cerdena",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Lo mejor de Cerdeña desde: US$1,137",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/48247432/890151/lo-mejor-de-cerdena"
+    },
+    "https://viajarenunclick.com.ar/es/idea/48247321/escapada-por-la-toscana": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/48247321/escapada-por-la-toscana",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Escapada por la Toscana desde: US$1,604",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/48247321/890151/escapada-por-la-toscana"
+    },
+    "https://viajarenunclick.com.ar/es/idea/47930523/postales-de-inglaterra-escocia-e-irlanda": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/47930523/postales-de-inglaterra-escocia-e-irlanda",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Postales de Inglaterra, Escocia e Irlanda  desde: US$3,935",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/47930523/890151/postales-de-inglaterra-escocia-e-irlanda"
+    },
+    "https://viajarenunclick.com.ar/es/idea/47742636/corazon-de-andalucia": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/47742636/corazon-de-andalucia",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Corazón de Andalucía desde: US$818",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/47742636/890151/corazon-de-andalucia"
+    },
+    "https://viajarenunclick.com.ar/es/idea/47333751/postales-de-europa-clasica": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/47333751/postales-de-europa-clasica",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Postales de Europa Clasica desde: US$3,445",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/47333751/890151/postales-de-europa-clasica"
+    },
+    "https://viajarenunclick.com.ar/es/idea/46587291/postales-de-europa-desde-londres": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/46587291/postales-de-europa-desde-londres",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Postales de Europa desde Londres desde: US$4,660",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/46587291/890151/postales-de-europa-desde-londres"
+    },
+    "https://viajarenunclick.com.ar/es/idea/46488290/postales-de-turquia-y-egipto": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/46488290/postales-de-turquia-y-egipto",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Postales de Turquía y Egipto desde: US$3,422",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/46488290/890151/postales-de-turquia-y-egipto"
+    },
+    "https://viajarenunclick.com.ar/es/idea/42335154/postales-de-turquia-y-dubai": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/42335154/postales-de-turquia-y-dubai",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Postales de Turquía y Dubai desde: US$2,787",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/42335154/890151/postales-de-turquia-y-dubai"
+    },
+    "https://viajarenunclick.com.ar/es/idea/37090063/joyas-turcas-con-dubai-2x1": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/37090063/joyas-turcas-con-dubai-2x1",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Joyas Turcas con Dubái 2x1 desde: US$800",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/37090063/890151/joyas-turcas-con-dubai-2x1"
+    },
+    "https://viajarenunclick.com.ar/es/idea/37013536/joyas-turcas-2-1": {
+      "loc": "https://viajarenunclick.com.ar/es/idea/37013536/joyas-turcas-2-1",
+      "lastmod": "2026-10-16",
+      "changefreq": "weekly",
+      "priority": "0.7",
+      "title": "Joyas Turcas – 2×1 desde: US$387",
+      "discovered_from": "https://viajarenunclick.com.ar/es/idea/37013536/890151/joyas-turcas-2-1"
+    }
+  }
+}

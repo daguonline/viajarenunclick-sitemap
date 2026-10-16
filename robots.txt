@@ -1,0 +1,18 @@
+# Robots.txt for https://viajarenunclick.com.ar
+# Directs search engine crawlers and protects private paths
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /login.xhtml
+Disallow: /choose-agency.xhtml
+Disallow: /brochurePDF
+Disallow: /voucher/pdf
+Disallow: /itemvoucher/pdf
+Disallow: /resources
+Disallow: /resources-internal
+Disallow: /widgets/
+Disallow: /cdn-cgi/
+
+# Sitemap location for Google Search Console & Bing Webmaster
+Sitemap: https://viajarenunclick.com.ar/sitemap.xml

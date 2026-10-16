@@ -1,0 +1,33 @@
+# Security: Prevent any credentials, tokens, or environment files from being committed
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.cert
+*.pfx
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# System and IDE Files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crawler temporary and debug logs
+*.log
+crawler_debug/
